@@ -1,3 +1,9 @@
+# Fork Change
+
+- Simplify multiple processes and remove the Config feature.
+- For Android 9 and above, facilitate using port 5555 for Wi-Fi ADB connection.
+
+
 # Magisk-WiFiADB
 
 A Magisk module that adds the equivalent of "Wireless(WiFi) Debugging Option" to Stock ROM's running Magisk.
