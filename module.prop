@@ -1,6 +1,6 @@
 id=magisk-wifiadb
 name=MagiskWiFiADB
-version=1.0.1
-versionCode=002
+version=1.0.2
+versionCode=003
 author=rsps1008
 description=Enable WiFi ADB always.
