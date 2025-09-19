@@ -1,6 +1,6 @@
-id=magisk-wifiadb
-name=MagiskWiFiADB
-version=1.0.2
-versionCode=003
+id=wifiadb-action
+name=WiFi ADB Toggle
+version=1.0.1
+versionCode=101
 author=rsps1008
-description=Enable WiFi ADB always.
+description=一鍵啟用 ADB over Wi-Fi (TCP 5555) 支援 Magisk 模組按鈕 action.sh
